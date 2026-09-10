@@ -1,6 +1,8 @@
 {
   "version": "4.1.0",
-  "url": "https://github.com/mathieugiraud78-ship-it/PC-Helper/releases/download/V4.1.0/PC.Helper.exe",
-  "sha256": "45cc2f3c97baf518f8d45e570501f540ed31a6ba2f4afb410721c5b9e60087fa",
+  "url": "https://github.com/mathieugiraud78-ship-it/PC-Helper/releases/download/V4.1.0/PC_Helper_Setup_V4.1.0.exe",
+  "sha256": "4b6495bcf8dbead7a793e1239596356f1b5c9c947fb817fb9fc310adb8e99d25",
+  "installer_url": "https://github.com/mathieugiraud78-ship-it/PC-Helper/releases/download/V4.1.0/PC_Helper_Setup_V4.1.0.exe",
+  "installer_sha256": "4b6495bcf8dbead7a793e1239596356f1b5c9c947fb817fb9fc310adb8e99d25",
   "notes": "Version actuelle de PC Helper"
 }
