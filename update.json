@@ -1,8 +1,8 @@
 {
-  "version": "4.1.0",
-  "url": "https://github.com/mathieugiraud78-ship-it/PC-Helper/releases/download/V4.1.0/PC_Helper_Setup_V4.1.0.exe",
-  "sha256": "4b6495bcf8dbead7a793e1239596356f1b5c9c947fb817fb9fc310adb8e99d25",
-  "installer_url": "https://github.com/mathieugiraud78-ship-it/PC-Helper/releases/download/V4.1.0/PC_Helper_Setup_V4.1.0.exe",
-  "installer_sha256": "4b6495bcf8dbead7a793e1239596356f1b5c9c947fb817fb9fc310adb8e99d25",
-  "notes": "Version actuelle de PC Helper"
+  "version": "4.3.5",
+  "url": "https://github.com/mathieugiraud78-ship-it/PC-Helper/releases/download/V4.3.5/PC_Helper_Setup_V4.3.5.exe",
+  "sha256": "c3649b8351075c622cd0d7b2440a2b7d217f76d1d1e5019e7232039d18fd70c1",
+  "installer_url": "https://github.com/mathieugiraud78-ship-it/PC-Helper/releases/download/V4.3.5/PC_Helper_Setup_V4.3.5.exe",
+  "installer_sha256": "c3649b8351075c622cd0d7b2440a2b7d217f76d1d1e5019e7232039d18fd70c1",
+  "notes": "PC Helper V4.3.5 - Correction du lancement et amélioration de la stabilité."
 }
